@@ -1,0 +1,5 @@
+export function Accessories() {
+    return (
+        <></>
+    );
+}
